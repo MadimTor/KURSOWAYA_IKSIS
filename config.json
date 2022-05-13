@@ -1,0 +1,8 @@
+{
+    "settings": {
+      "elapse_time": 500,
+      "percent_of_fails": 2,
+      "start_count": 10,
+      "step": 100
+    }
+  }
